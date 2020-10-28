@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+}
+#canvas {
+  margin-top: 100px;
+  border: 2px solid grey;
+}
